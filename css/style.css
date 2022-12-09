@@ -24,6 +24,7 @@ header img {
     height: 1.5rem;
 
 }
+
 /* Header */
 .header {
     height: 12rem;
@@ -82,7 +83,6 @@ header img {
 
 .post button {
     background-color: #775959;
-    color: white;
     border: 0;
     padding: 10px 20px;
     border-radius: 5px;
@@ -94,6 +94,11 @@ header img {
 .post button:hover {
     background-color: #cbb8b8;
     color: #775959;
+}
+
+.post button a {
+    color: white;
+    text-decoration: none;
 }
 
 footer {
