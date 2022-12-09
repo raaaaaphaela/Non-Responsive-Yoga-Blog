@@ -164,3 +164,9 @@ footer li a:hover {
         width: 40%;
     }
 }
+
+@media (min-width: 1400px) {
+    .header {
+        height: 33rem;
+    }
+}
